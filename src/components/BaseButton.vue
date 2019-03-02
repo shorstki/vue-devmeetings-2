@@ -7,7 +7,6 @@
 <script>
 export default {
   inheritAttrs: false,
-  name: '',
   props: {
     loading: {
       type: Boolean,
